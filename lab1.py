@@ -406,5 +406,3 @@ while True:
             print('res:  s= '+str(res[0]) + '  e= '+''.join(str(res[i]) for i in range(1,9))
                   +'  m= '+''.join(str(res[i]) for i in range(10,32)))
             print('decimal res: ' + str(float_to_dec(res)))
-        case '5':
-            print(round(10**(-3), 3))
