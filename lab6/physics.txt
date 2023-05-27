@@ -1,0 +1,15 @@
+gravity, attraction force between objects
+friction, motion resistance from objects rubbing against each other
+displacement, the change in an object's position
+impulse, change in momentum
+pressure, force pushing on an object
+momentum, measurement of mass in motion
+anion, a negatively charged ion
+inertia, tendency of an object to resist any change in its motion
+electricity, the movement of electrons between atoms
+velocity, the speed and the direction of motion of an object
+acceleration, the rate at which the velocity of a body changes with time
+sound, mechanical wave composed of frequencies within the range of human hearing
+photon, the quantum of light and all other forms of electromagnetic radiation
+atom, basic unit of matter that consists of a central nucleus surrounded by a cloud of electrons
+dielectric, an electrical insulator that can be polarized by an applied electric field
